@@ -1,2 +1,2 @@
-# Introduction_to_machine_learning
+# Introduction To Machine Learning
 A Jupyter notebook introducing Machine Learning 
